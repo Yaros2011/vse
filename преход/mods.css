@@ -1,0 +1,194 @@
+#activete {
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    color: #ffffff !important;
+    padding: 0px 0px;
+    border-radius: 0px;
+    border: 3px inset #f3c846;
+    background: #9e220a;
+    background: linear-gradient(to bottom, #ff6200, #ddbe10);
+}
+#activete:hover {
+    color: #ffffff !important;
+    background: #f66d52;
+    background: linear-gradient(to bottom, #ff6200, #bf8e25);
+}
+#menu {
+    background-color: rgb(57, 52, 52);
+    position: fixed;
+    right: 80%;
+    height: 100%;
+    width: 20%;
+    display: none;
+    z-index: 8;
+}
+.close {
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    z-index: 8;
+}
+.lenta{
+    background-color: azure;
+    width: 650px;
+    left: 570px;
+    height: 500vh;
+    z-index: 1;
+    position: absolute;
+}
+.BeamNG{
+    color: #ff6200;
+    left: 650px;
+    position: absolute;
+    z-index: 3;
+    font-size: 20px;
+    top: 20px;
+}
+.drive{
+    color: black;
+    z-index: 3;
+    position: absolute;
+    left: 820px;
+    font-size: 20px; 
+    top: 20px;
+}
+.button{
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    color: #ffffff !important;
+    padding: 3px 9px;
+    border-radius: 0px;
+    border: 2px outset #f3c846;
+    background: #9e220a;
+    background: linear-gradient(to bottom, #ff6200, #ddbe10);
+}
+.button:hover{
+    color: #ffffff !important;
+    background: #f66d52;
+    background: linear-gradient(to bottom, #ff6200, #bf8e25);
+    z-index: 8;
+}
+.menu2{
+    position: absolute;
+    background-color: rgb(57, 52, 52);
+    width: 650px;
+    height: 70px;
+    top: 100px;
+    left: 570px;
+    z-index: 4;
+}
+#menu-button{
+    background: rgb(57, 52, 52);
+    background-color: rgb(57, 52, 52);
+    color: azure;
+    font-size: 20px;
+    top: 120px;
+    left: 750px;
+    position: absolute;
+    z-index: 5;
+}
+#top-of-mods{
+    position: absolute;
+    background: rgb(57, 52, 52);
+    background-color: rgb(57, 52, 52);
+    color: azure;
+    font-size: 20px;
+    z-index: 5;
+    top: 120px;
+    left: 895px;
+}
+.background-image{
+    position: fixed;
+    background-image: url(https://cdn.akamai.steamstatic.com/steam/apps/284160/ss_1b129249ad662d242a81a34ee2fdcdcbe064eb32.1920x1080.jpg?t=1709017559);
+    height: 100vh;
+    width: 100vw;
+    padding: 0px;
+    z-index: 0;
+}
+body{
+    background-color: rgb(57, 52, 52);
+}
+.mods{
+    color: black;
+    z-index: 3;
+    position: absolute;
+    left: 950px;
+    font-size: 20px; 
+    top: 18px;
+}
+.mod1{
+    z-index: 9;
+    top: 190px;
+    left: 570px;
+    height: 200px;
+    width: 645px;
+    background-color: azure;
+    position: absolute;
+    border: solid black;
+}
+.img1{
+    position: absolute;
+    top: 207px;
+    left: 585px;
+    z-index: 9;
+    height: 5vh;
+    width: 5vw;
+}
+.txt1{
+    position: absolute;
+    z-index: 9;
+    font-size: 20px;
+    top: 200px;
+    left: 950px;
+}
+.SERENITY{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 161, 0);
+    text-decoration: none;
+    top: 295px;
+    left: 980px;
+    height: 50px;
+    width: 120px;
+    z-index: 9;
+}
+.mod2{
+    z-index: 9;
+    top: 400px;
+    left: 570px;
+    height: 200px;
+    width: 645px;
+    background-color: azure;
+    position: absolute;
+    border: solid black;
+}
+.img2{
+    position: absolute;
+    z-index: 9;
+    height: 50%;
+    top: 415px;
+    left: 583px;
+    height: 5vh;
+    width: 5vw;
+}
+.txt2{
+   position: absolute;
+   z-index: 9;
+   font-size: 22px;
+   top: 415px;
+   left: 950px;
+}
+.BX-button{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 161, 0);
+    text-decoration: none;
+    top: 506px;
+    left: 980px;
+    height: 50px;
+    width: 120px;
+    z-index: 9;
+}
+.gg{
+    text-decoration: none;
+}

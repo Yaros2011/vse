@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.imagus{
+    position: absolute;
+    height: 0vh;
+    width: 40vw;
+    left: 635px;
+}
+.buttonus{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 161, 0);
+    text-decoration: none;
+    top: 140px;
+    left: 10px;
+    height: 50px;
+    width: 120px;
+    z-index:    
+}
+.about{
+    position: absolute;
+    z-index: 9;
+    top: 50px;
+}
+.home{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: rgb(245, 148, 12);
+    text-decoration: none;
+    height: 50px;
+    width: 120px; 
+}
+.bx240{
+    text-decoration: none;
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    color: #ffffff !important;
+    padding: 0px 0px;
+    border-radius: 0px;
+    border: 3px inset #f3c846;
+    background: #9e220a;
+    background: linear-gradient(to bottom, #ff6200, #ddbe10);
+    position: absolute;
+    top: 200px;
+}
+.bx240:hover{
+    color: #ffffff !important;
+    background: #f66d52;
+    background: linear-gradient(to bottom, #ff6200, #bf8e25);
+}

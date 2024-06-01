@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(141, 220, 208);
+    background-image: url(https://cdn.akamai.steamstatic.com/steam/apps/284160/ss_1b129249ad662d242a81a34ee2fdcdcbe064eb32.1920x1080.jpg?t=1709017559);
+}
+.lynk{
+    position: absolute;
+    left: 830px;
+    font-size: 40px;
+}
+.btn{
+    font-size: 60px;
+    position: absolute;
+    top: 300px;
+    left: 710px;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,145,0,1) 35%, rgba(255,51,0,1) 100%);
+}
+.klas{
+    text-decoration: none;
+    color: black;
+}
+#activete {
+            font-family: 'Comfortaa';
+            font-size: 20px;
+            color: #ffffff !important;
+            padding: 0px 0px;
+            border-radius: 0px;
+            border: 3px inset #f3c846;
+            background: #9e220a;
+            background: linear-gradient(to bottom, #ff6200, #ddbe10);
+        }
+        #activete:hover {
+            color: #ffffff !important;
+            background: #f66d52;
+            background: linear-gradient(to bottom, #ff6200, #bf8e25);
+        }
+        #menu {
+            background-color: rgb(57, 52, 52);
+            position: fixed;
+            right: 80%;
+            height: 100%;
+            width: 20%;
+            display: none;
+            z-index: 8;
+        }
+        .close {
+            position: absolute;
+            top: 5px;
+            right: 20px;
+            z-index: 8;
+        }
+        .button{
+            font-family: 'Comfortaa';
+            font-size: 20px;
+            color: #ffffff !important;
+            padding: 3px 9px;
+            border-radius: 0px;
+            border: 2px outset #f3c846;
+            background: #9e220a;
+            background: linear-gradient(to bottom, #ff6200, #ddbe10);
+        }
+        .button:hover{
+            color: #ffffff !important;
+            background: #f66d52;
+            background: linear-gradient(to bottom, #ff6200, #bf8e25);
+            z-index: 8;
+        } 
