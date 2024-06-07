@@ -300,3 +300,54 @@ body{
     width: 120px;
     z-index: 9;
 }
+.new667{
+    z-index: 9;
+    top: 1450px;
+    left: 570px;
+    height: 200px;
+    width: 645px;
+    background-color: azure;
+    position: absolute;
+    border: solid black;
+}
+.text667{
+    position: absolute;
+    z-index: 9;
+    top: 1440px;
+    left: 590px;
+    font-size: 22px;
+}
+.new999{
+    z-index: 9;
+    top: 1660px;
+    left: 570px;
+    height: 200px;
+    width: 645px;
+    background-color: azure;
+    position: absolute;
+    border: solid black;
+}
+.text999{
+    position: absolute;
+    z-index: 9;
+    top: 1660px;
+    left: 590px;
+    font-size: 22px;
+}
+.new2011{
+    z-index: 9;
+    top: 1870px;
+    left: 570px;
+    height: 200px;
+    width: 645px;
+    background-color: azure;
+    position: absolute;
+    border: solid black;
+}
+.text2011{
+    position: absolute;
+    z-index: 9;
+    top: 1870px;
+    left: 590px;
+    font-size: 22px;
+} 
